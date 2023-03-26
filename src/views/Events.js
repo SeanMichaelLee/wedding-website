@@ -29,7 +29,7 @@ class Events extends React.Component {
                 <Typography variant="h4" marked="center" className={classes.title}>
                     Work in Progress.... I have a full time job too you know.... - Sean
                 </Typography>
-                <div className={classes.div}><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" alt=""></iframe></div>
+                <div className={classes.div}><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" alt="events"></iframe></div>
             </Paper>
         );
     }

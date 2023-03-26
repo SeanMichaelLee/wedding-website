@@ -29,7 +29,7 @@ class Registry extends React.Component {
                 <Typography variant="h4" marked="center" className={classes.title}>
                     I'm working on it... I'm not a web dev - Sean
                 </Typography>
-                <div className={classes.div}><iframe src="https://giphy.com/embed/6AaB96ZVrUN0I" width="480" height="480" alt=""></iframe></div>
+                <div className={classes.div}><iframe src="https://giphy.com/embed/6AaB96ZVrUN0I" width="480" height="480" alt="registry"></iframe></div>
             </Paper>
         );
     }
