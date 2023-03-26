@@ -45,7 +45,7 @@ export default function MapControls() {
                         <Typography variant="body2" color="text.secondary">
                             {popupInfo.address}
                         </Typography>
-                        <img src={popupInfo.image} width="100%" height="auto"/>
+                        <img src={popupInfo.image} width="100%" height="auto" alt=""/>
                         <Typography variant="body2" color="text.secondary">
                             {popupInfo.description}
                         </Typography>

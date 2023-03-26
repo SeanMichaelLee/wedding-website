@@ -56,7 +56,7 @@ class Landing extends React.Component {
                                     <TimelineOppositeContent
                                     sx={{ m: 'auto 0' }}
                                     align="right">
-                                        <img src={'/college_photo.jpg'} width="50%" height="auto"/>
+                                        <img src={'/college_photo.jpg'} width="50%" height="auto" alt=""/>
                                     </TimelineOppositeContent>
                                     <TimelineSeparator>
                                     <TimelineConnector />
@@ -81,7 +81,7 @@ class Landing extends React.Component {
                                     <TimelineOppositeContent
                                     sx={{ m: 'auto 0' }}
                                     >
-                                        <img src={'/home_photo.jpg'} width="50%" height="auto"/>
+                                        <img src={'/home_photo.jpg'} width="50%" height="auto" alt=""/>
                                     </TimelineOppositeContent>
                                     <TimelineSeparator>
                                     <TimelineConnector />
@@ -100,7 +100,7 @@ class Landing extends React.Component {
                                     <TimelineOppositeContent
                                     sx={{ m: 'auto 0' }}
                                     >
-                                        <img src={'/enagement_photo_1.jpg'} width="50%" height="auto"/>
+                                        <img src={'/enagement_photo_1.jpg'} width="50%" height="auto" alt=""/>
                                     </TimelineOppositeContent>
                                     <TimelineSeparator>
                                     <TimelineConnector />
@@ -119,7 +119,7 @@ class Landing extends React.Component {
                                     <TimelineOppositeContent
                                     sx={{ m: 'auto 0' }}
                                     >
-                                        <img src={'/paris_photo.jpg'} width="50%" height="auto"/>
+                                        <img src={'/paris_photo.jpg'} width="50%" height="auto" alt=""/>
                                     </TimelineOppositeContent>
                                     <TimelineSeparator>
                                     <TimelineConnector />
