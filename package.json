@@ -1,12 +1,40 @@
 {
   "name": "wedding-website",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/joy": "^5.0.0-alpha.71",
+    "@mui/lab": "^5.0.0-alpha.123",
+    "@mui/material": "^5.11.13",
+    "classnames": "^2.3.2",
+    "google-maps-react": "^2.0.6",
+    "mapbox-gl": "^2.13.0",
+    "maplibre-gl": "^2.4.0",
+    "material-icons": "^0.3.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-mailto": "^0.4.0",
+    "react-map-gl": "^7.0.21",
+    "react-router": "^6.9.0",
+    "react-router-dom": "^6.9.0",
+    "react-scripts": "^5.0.1",
+    "react-scrollable-anchor": "^0.6.1",
+    "react-swipeable-views": "^0.13.1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11"
+  ]
 }
