@@ -29,7 +29,7 @@ class Rsvp extends React.Component {
                 <Typography variant="h4" marked="center" className={classes.title}>
                     Working on it...... We don't really need an RSVP page right.... - Sean
                 </Typography>
-                <div className={classes.div}><iframe src="https://giphy.com/embed/AhjXalGPAfJg4" width="480" height="480" alt="rsvp"></iframe></div>
+                <div className={classes.div}><iframe src="https://giphy.com/embed/AhjXalGPAfJg4" width="480" height="480" title="rsvp"></iframe></div>
             </Paper>
         );
     }
