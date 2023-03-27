@@ -29,7 +29,7 @@ class Photos extends React.Component {
                 <Typography variant="h4" marked="center" className={classes.title}>
                     Working on it.... Why did I agree to this - Sean
                 </Typography>
-                <div className={classes.div}><iframe src="https://giphy.com/embed/sQpSouhvwrW0tPigSW" width="480" height="480" alt="photos"></iframe></div>
+                <div className={classes.div}><iframe src="https://giphy.com/embed/sQpSouhvwrW0tPigSW" width="480" height="480" title="photos"></iframe></div>
             </Paper>
         );
     }
